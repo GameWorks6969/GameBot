@@ -8,5 +8,5 @@ In the index.js open it and on line 26 change the  'const token = 'your_token_he
 # GameBotMusic (.env) instructions
 Rename the -gb.env file to - '.env' then open the file and put your bot token in the TOKEN="your_token_here" part and your prefix in PREFIX="$%"
 
-# GameBotMusic (config) instructions
+# GameBotSnakeGame (config) instructions
 Go to line 24 and change the 'token: "your_token_here",' and 'prefix: "$!"'
