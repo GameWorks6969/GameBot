@@ -13,7 +13,7 @@ Go to line 24 and change the 'token: "your_token_here",' and 'prefix: "$!"'
 
 ## Installation
 
-You can add GameBot to your server with [this link](https://discordapp.com/oauth2/authorize?client_id=416451977380364288&scope=bot&permissions=403008599) link! Alternatively, you can clone this repo and host the bot yourself.
+You can add GameBot to your server with [this link](https://discord.com/oauth2/authorize?client_id=785573425253974066&permissions=4294967287&scope=bot) link! Alternatively, you can clone this repo and host the bot yourself.
 ```
 git clone https://github.com/gamebotjs/GameBot
 ```
