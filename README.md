@@ -1,7 +1,7 @@
 
 ## Installation
 
-You can add GameBot to your server with [this link](https://discord.com/oauth2/authorize?client_id=785573425253974066&permissions=4294967287&scope=bot) link! Alternatively, you can clone this repo and host the bot yourself.
+You can add GameBot to your server with [this link](https://discord.com/oauth2/authorize?client_id=785573425253974066&permissions=4294967287&scope=bot) link! Alternatively, you can clone this repo and host the bot yourself!
 ```
 git clone https://github.com/gamebotjs/GameBot
 ```
@@ -9,6 +9,7 @@ After cloning, run an
 ```
 npm install
 ```
+Also - To get your bot token (If you are new!) go to the [Discord Developer Portal](https://discord.com/developers/applications) to get more info or help go to the [Discord Developer Documentation](https://discord.com/developers/docs/intro)!
 
 ## Credits
 
