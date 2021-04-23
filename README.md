@@ -1,3 +1,7 @@
+## Before we get started!
+
+Please do not just copy paste the entire thing or even if you do _learn and understand_ what you pasted!
+Also how to setup each of the modules will be included in each of the folders!
 
 ## Installation
 
@@ -9,7 +13,7 @@ After cloning, run an
 ```
 npm install
 ```
-Also - To get your bot token (If you are new!) go to the [Discord Developer Portal](https://discord.com/developers/applications) to get more info or help go to the [Discord Developer Documentation](https://discord.com/developers/docs/intro)!
+Also - To get your bot token (If you are new!) go to the [Discord Developer Portal](https://discord.com/developers/applications) to get more info or help go to the [Discord Developer Documentation](https://discord.com/developers/docs/intro) and also to get the 'Top.gg Token' mentioned [here](https://github.com/gamebotjs/GameBot/blob/main/GameBotMain/index.js) at line:24 go to the [Top.gg Documentation](https://docs.top.gg/) to get started!
 
 ## Credits
 
