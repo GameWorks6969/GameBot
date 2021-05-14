@@ -1,3 +1,5 @@
+[![Discord Bots](https://top.gg/api/widget/785573425253974066.svg)](https://top.gg/bot/785573425253974066) [![Discord Bots](https://top.gg/api/widget/status/785573425253974066.svg)](https://top.gg/bot/785573425253974066) [![Discord Bots](https://top.gg/api/widget/servers/785573425253974066.svg)](https://top.gg/bot/785573425253974066) [![Discord Bots](https://top.gg/api/widget/owner/785573425253974066.svg)](https://top.gg/bot/785573425253974066)
+
 ## Before we get started!
 
 Please do not just copy paste the entire thing or even if you do _learn and understand_ what you pasted!
