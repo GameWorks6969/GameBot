@@ -34,5 +34,6 @@ Also - To get your bot token (If you are new!) go to the [Discord Developer Port
   <a href="https://github.com/discordjs">
     <img src="https://img.shields.io/badge/discord.js-v12.3.1-blue.svg?logo=npm" alt="shield.png">
   </a>
-  [![Discord Bots](https://top.gg/api/widget/785573425253974066.svg)](https://top.gg/bot/785573425253974066)
+  
 </div>
+[![Discord Bots](https://top.gg/api/widget/785573425253974066.svg)](https://top.gg/bot/785573425253974066)
