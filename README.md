@@ -36,4 +36,3 @@ Also - To get your bot token (If you are new!) go to the [Discord Developer Port
   </a>
   
 </div>
-[![Discord Bots](https://top.gg/api/widget/785573425253974066.svg)](https://top.gg/bot/785573425253974066)
